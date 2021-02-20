@@ -3,6 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://headlessbits.com/blog-demo/</loc>
+    <lastmod>2021-02-20T21:04:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://headlessbits.com/blog-demo/post/</loc>
+    <lastmod>2021-02-20T21:04:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://headlessbits.com/blog-demo/tags/</loc>
+    <lastmod>2021-02-20T21:04:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://headlessbits.com/blog-demo/post/test/</loc>
+    <lastmod>2021-02-20T21:04:08+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://headlessbits.com/blog-demo/tags/test/</loc>
+    <lastmod>2021-02-20T21:04:08+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://headlessbits.com/blog-demo/archives/</loc>
   </url>
   
@@ -11,19 +36,11 @@
   </url>
   
   <url>
-    <loc>https://headlessbits.com/blog-demo/</loc>
-  </url>
-  
-  <url>
     <loc>https://headlessbits.com/blog-demo/search/</loc>
   </url>
   
   <url>
     <loc>https://headlessbits.com/blog-demo/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://headlessbits.com/blog-demo/tags/</loc>
   </url>
   
 </urlset>

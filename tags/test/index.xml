@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Headless Bits Blog Demo</title>
+    <link>https://headlessbits.com/blog-demo/tags/test/</link>
+    <description>Recent content in test on Headless Bits Blog Demo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 20 Feb 2021 21:04:08 +0600</lastBuildDate><atom:link href="https://headlessbits.com/blog-demo/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://headlessbits.com/blog-demo/post/test/</link>
+      <pubDate>Sat, 20 Feb 2021 21:04:08 +0600</pubDate>
+      
+      <guid>https://headlessbits.com/blog-demo/post/test/</guid>
+      <description>This is a test post!</description>
+    </item>
+    
+  </channel>
+</rss>

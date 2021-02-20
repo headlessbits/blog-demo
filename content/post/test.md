@@ -6,7 +6,7 @@ tags: ["test"]
 author: "test"
 showToc: true
 TocOpen: false
-draft: true
+draft: flase
 hidemeta: false
 comments: false
 disableHLJS: true # to disable highlightjs
